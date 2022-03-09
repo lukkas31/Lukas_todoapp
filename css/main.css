@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(59, 59, 59);
+}
+.main-title{
+    text-align: center;
+}
+h1{
+    margin: 1rem;
+}
+
+form{
+    /*float: left;*/
+    margin: 3rem;
+}
+
+
+.error{
+    color: crimson;
+}
